@@ -1,0 +1,7 @@
+https://github.com/rd2sl/inverter-hardware.git
+
+Jump to VS Code as Git editor - VS Code as Git editor. 
+Make sure you can run code --help from the command line 
+and you get help. if you do not see help, please follow 
+these steps: macOS: Select Shell Command: Install 'Code' 
+com.
